@@ -11,8 +11,7 @@ Online Banking platform using SpringBoot
 6) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/19de832e-cf15-4084-8de7-60e6cdc6736f">
 7) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/d9a51ed5-529d-42fe-bf2b-d1ea1cdf4f94">
 8) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/c28323ad-b6e4-47be-a090-02415b6b8884">
-9) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/d37180e7-fb8a-409e-8631-d0967fe8e973">
-10) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/72b66e92-a8f3-437d-8ece-459d68dccebf">
-11)  ![Uploading image.png…]()
+9) <img width="720" alt="image" src="https://github.com/Pavitra-B-Kochalapur/Online-Banking-System/assets/141141163/72b66e92-a8f3-437d-8ece-459d68dccebf">
+10)  ![Uploading image.png…]()
 
 
